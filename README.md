@@ -30,3 +30,5 @@ and will show the pop msg regarding the error.
 
 -> Then the result will be declared at the bottom of the Tip Calculator.
 
+# Also I have added the PDF file for the Test Cases for the Tip Calculator Application.
+
